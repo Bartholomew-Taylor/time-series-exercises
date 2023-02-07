@@ -1,0 +1,20 @@
+,names,rotation period,orbital period,diameter,climate,terrain,population,gravity
+0,Tatooine,23,304,10465,arid,desert,200000,1 standard
+1,Alderaan,24,364,12500,temperate,"grasslands, mountains",2000000000,1 standard
+2,Yavin IV,24,4818,10200,"temperate, tropical","jungle, rainforests",1000,1 standard
+3,Hoth,23,549,7200,frozen,"tundra, ice caves, mountain ranges",unknown,1.1 standard
+4,Dagobah,23,341,8900,murky,"swamp, jungles",unknown,N/A
+5,Bespin,12,5110,118000,temperate,gas giant,6000000,"1.5 (surface), 1 standard (Cloud City)"
+6,Endor,18,402,4900,temperate,"forests, mountains, lakes",30000000,0.85 standard
+7,Naboo,26,312,12120,temperate,"grassy hills, swamps, forests, mountains",4500000000,1 standard
+8,Coruscant,24,368,12240,temperate,"cityscape, mountains",1000000000000,1 standard
+9,Kamino,27,463,19720,temperate,ocean,1000000000,1 standard
+10,Geonosis,30,256,11370,"temperate, arid","rock, desert, mountain, barren",100000000000,0.9 standard
+11,Utapau,27,351,12900,"temperate, arid, windy","scrublands, savanna, canyons, sinkholes",95000000,1 standard
+12,Mustafar,36,412,4200,hot,"volcanoes, lava rivers, mountains, caves",20000,1 standard
+13,Kashyyyk,26,381,12765,tropical,"jungle, forests, lakes, rivers",45000000,1 standard
+14,Polis Massa,24,590,0,artificial temperate ,airless asteroid,1000000,0.56 standard
+15,Mygeeto,12,167,10088,frigid,"glaciers, mountains, ice canyons",19000000,1 standard
+16,Felucia,34,231,9100,"hot, humid",fungus forests,8500000,0.75 standard
+17,Cato Neimoidia,25,278,0,"temperate, moist","mountains, fields, forests, rock arches",10000000,1 standard
+18,Saleucami,26,392,14920,hot,"caves, desert, mountains, volcanoes",1400000000,unknown
